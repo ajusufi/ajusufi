@@ -4,13 +4,6 @@
   <img src="./assets/about.svg" width="100%" alt="About Altin Jusufi" />
 </p>
 
-<!-- DEEP-ML -->
-<p align="center">
-  <a href="https://github.com/ajusufi/deep-ml">
-    <img src="./assets/deep-ml-cover.svg" width="100%" alt="Deep-ML machine-learning practice" />
-  </a>
-</p>
-
 <!-- SKILLS AND TOOLS -->
 <p align="center">
   <img src="./assets/skills-and-tools.svg" width="100%" alt="Skills and tools terminal index" />
@@ -103,6 +96,13 @@ up-next/
 </details>
 
 <br />
+
+<!-- DEEP-ML -->
+<p align="center">
+  <a href="https://github.com/ajusufi/deep-ml">
+    <img src="./assets/deep-ml-cover.svg" width="100%" alt="Deep-ML machine-learning practice" />
+  </a>
+</p>
 
 <!-- HOBBIES -->
 <p align="center">
