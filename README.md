@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/terminal-hero.png" width="100%" alt="Monochrome machine-learning terminal banner" />
-</p>
+
 
 <p align="center">
   <img src="./assets/profile-terminal.svg" width="100%" alt="Terminal introducing Altin Jusufi" />
