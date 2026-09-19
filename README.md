@@ -12,14 +12,13 @@
   <img src="./assets/badges/prolog.svg" height="34" alt="Prolog" />
 </p>
 
-<samp>web/</samp>
 <p>
   <img src="./assets/badges/svelte.svg" height="34" alt="Svelte" />
   <img src="./assets/badges/react.svg" height="34" alt="React" />
   <img src="./assets/badges/tailwind-css.svg" height="34" alt="Tailwind CSS" />
 </p>
 
-<samp>ml-data/</samp>
+<samp>ml-data_&_robotics/</samp>
 <p>
   <img src="./assets/badges/numpy.svg" height="34" alt="NumPy" />
   <img src="./assets/badges/pandas.svg" height="34" alt="pandas" />
@@ -28,7 +27,6 @@
   <img src="./assets/badges/seaborn.svg" height="34" alt="Seaborn" />
 </p>
 
-<samp>robotics/</samp>
 <p>
   <img src="./assets/badges/ros-2.svg" height="34" alt="ROS 2" />
   <img src="./assets/badges/foxglove.svg" height="34" alt="Foxglove" />
@@ -37,14 +35,12 @@
   <img src="./assets/badges/opencv.svg" height="34" alt="OpenCV" />
 </p>
 
-<samp>embedded/</samp>
+<samp>embedded_&_dev-tools/</samp>
 <p>
   <img src="./assets/badges/stm32.svg" height="34" alt="STM32" />
   <img src="./assets/badges/arduino.svg" height="34" alt="Arduino" />
   <img src="./assets/badges/platformio.svg" height="34" alt="PlatformIO" />
 </p>
-
-<samp>dev-tools/</samp>
 
 <p>
   <img src="./assets/badges/docker.svg" height="34" alt="Docker" />
