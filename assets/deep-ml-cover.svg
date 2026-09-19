@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">deep-ml</title>
+  <desc id="description">A minimal monochrome terminal-style cover for Altin Jusufi's machine-learning practice repository.</desc>
+  <rect width="1200" height="630" fill="#0b0b0b"/>
+  <rect x="32" y="32" width="1136" height="566" rx="12" fill="none" stroke="#343434" stroke-width="2"/>
+  <line x1="32" y1="96" x2="1168" y2="96" stroke="#343434" stroke-width="2"/>
+  <circle cx="70" cy="64" r="7" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+  <circle cx="98" cy="64" r="7" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+  <circle cx="126" cy="64" r="7" fill="none" stroke="#8a8a8a" stroke-width="2"/>
+
+  <text x="96" y="225" fill="#8a8a8a" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">altin@github:~/projects$</text>
+  <text x="96" y="328" fill="#f4f4f4" font-size="92" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">deep-ml</text>
+  <text x="96" y="392" fill="#a8a8a8" font-size="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">machine learning practice, one problem at a time</text>
+
+  <text x="96" y="508" fill="#777777" font-size="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">python  /  problems  /  progress</text>
+  <rect x="1050" y="482" width="20" height="31" fill="#f4f4f4"/>
+</svg>
+
