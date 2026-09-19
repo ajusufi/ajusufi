@@ -10,7 +10,7 @@
 
 I am pursuing a Bachelor's degree in **Artificial Intelligence at Johannes Kepler University Linz**. I use this space to turn what I study into working code, small experiments, and a record of steady progress.
 
-Right now, I am especially interested in understanding machine-learning ideas by implementing them—not only reading about them.
+Right now, I am especially interested in understanding machine learning ideas by implementing them—not only reading about them.
 
 ## `ajusufi@github:~$ cd ~/deep-ml`
 
