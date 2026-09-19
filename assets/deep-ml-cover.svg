@@ -8,7 +8,7 @@
   <circle cx="98" cy="64" r="7" fill="none" stroke="#8a8a8a" stroke-width="2"/>
   <circle cx="126" cy="64" r="7" fill="none" stroke="#8a8a8a" stroke-width="2"/>
 
-  <text x="96" y="225" fill="#8a8a8a" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">altin@github:~/projects$</text>
+  <text x="96" y="225" fill="#8a8a8a" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">ajusufi@github:~/projects$ cd deep-ml</text>
   <text x="96" y="328" fill="#f4f4f4" font-size="92" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">deep-ml</text>
   <text x="96" y="392" fill="#a8a8a8" font-size="28" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">machine learning practice, one problem at a time</text>
 
