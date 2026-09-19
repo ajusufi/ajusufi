@@ -25,7 +25,6 @@
   <img src="./assets/badges/pandas.svg" height="34" alt="pandas" />
   <img src="./assets/badges/pytorch.svg" height="34" alt="PyTorch" />
   <img src="./assets/badges/scikit-learn.svg" height="34" alt="scikit-learn" />
-  <img src="./assets/badges/matplotlib.svg" height="34" alt="Matplotlib" />
   <img src="./assets/badges/seaborn.svg" height="34" alt="Seaborn" />
 </p>
 
