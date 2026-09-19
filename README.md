@@ -18,7 +18,7 @@
   <img src="./assets/badges/tailwind-css.svg" height="34" alt="Tailwind CSS" />
 </p>
 
-<samp>ml-data_&_robotics/</samp>
+<samp>ml_&_robotics/</samp>
 <p>
   <img src="./assets/badges/numpy.svg" height="34" alt="NumPy" />
   <img src="./assets/badges/pandas.svg" height="34" alt="pandas" />
