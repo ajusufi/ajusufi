@@ -23,7 +23,7 @@
     <text x="179" y="130" fill="#8c8c8c">:</text>
     <text x="193" y="130" fill="#c8c8c8">~</text>
     <text x="210" y="130" fill="#8c8c8c">$</text>
-    <text x="238" y="130" fill="#f2f2f2">ls --icons ~/skills_and_tools</text>
+    <text x="238" y="130" fill="#f2f2f2">ls -R --icons ~/skills_and_tools</text>
   </g>
   <text x="30" y="205" fill="#f2f2f2" font-size="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">languages/</text>
   <text x="230" y="205" fill="#f2f2f2" font-size="21" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">web/</text>
