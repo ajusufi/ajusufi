@@ -4,10 +4,6 @@
   <img src="./assets/about.svg" width="100%" alt="About Altin Jusufi" />
 </p>
 
-<!-- SKILLS AND TOOLS -->
-<p align="center">
-  <img src="./assets/skills-and-tools.svg" width="100%" alt="Skills and tools terminal index" />
-</p>
 
 
 <p>
