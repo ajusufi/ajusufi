@@ -59,9 +59,7 @@
   <summary><code>alt@github:~$ tree ~/academic/completed</code></summary>
 
 ```text
-completed/
-└── course mapping pending
-```
+
 
 </details>
 
