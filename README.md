@@ -58,8 +58,6 @@
 <details>
   <summary><code>alt@github:~$ tree ~/academic/completed</code></summary>
 
-```text
-
 
 </details>
 
