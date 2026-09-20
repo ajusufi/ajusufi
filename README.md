@@ -68,20 +68,13 @@ completed/
 <details>
   <summary><code>alt@github:~$ tree ~/academic/currently-learning</code></summary>
 
-```text
-currently-learning/
-└── course mapping pending
-```
+
 
 </details>
 
 <details>
   <summary><code>alt@github:~$ tree ~/academic/up-next</code></summary>
 
-```text
-up-next/
-└── course mapping pending
-```
 
 </details>
 
