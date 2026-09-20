@@ -35,7 +35,7 @@
   <img src="./assets/badges/opencv.svg" height="34" alt="OpenCV" />
 </p>
 
-<samp>embedded_&_dev-tools/</samp>
+<samp>embedded_&_misc/</samp>
 <p>
   <img src="./assets/badges/stm32.svg" height="34" alt="STM32" />
   <img src="./assets/badges/arduino.svg" height="34" alt="Arduino" />
