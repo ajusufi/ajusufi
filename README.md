@@ -50,45 +50,6 @@
   <img src="./assets/badges/linux.svg" height="34" alt="Linux" />
 </p>
 
-<!-- ACADEMIC -->
-<p align="center">
-  <img src="./assets/academic.svg" width="100%" alt="Academic progress folders" />
-</p>
-
-<details>
-  <summary><code>alt@github:~$ tree ~/academic/completed</code></summary>
-
-
-</details>
-
-<details>
-  <summary><code>alt@github:~$ tree ~/academic/currently-learning</code></summary>
 
 
 
-</details>
-
-<details>
-  <summary><code>alt@github:~$ tree ~/academic/up-next</code></summary>
-
-
-</details>
-
-<br />
-
-<!-- DEEP-ML -->
-<p align="center">
-  <a href="https://github.com/ajusufi/deep-ml">
-    <img src="./assets/deep-ml-cover.svg" width="100%" alt="Deep-ML machine-learning practice" />
-  </a>
-</p>
-
-<!-- HOBBIES -->
-<p align="center">
-  <img src="./assets/hobbies.svg" width="100%" alt="Hobbies: music, gaming, electronics and robotics" />
-</p>
-
-<!-- CONTRIBUTIONS -->
-<p align="center">
-  <img src="./assets/contributions.svg" width="100%" alt="GitHub contribution activity for the last year" />
-</p>
